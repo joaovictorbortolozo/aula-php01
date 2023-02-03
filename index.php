@@ -6,5 +6,9 @@ echo "<hr>";
 echo "Estou aprendendo PHP";
 */
 
-phpinfo();
+//phpinfo()
+
+$nome = "João";
+$idade = 18;
+Echo $nome . " - " . $idade;
 ?>
